@@ -1,2 +1,2 @@
 # dtchan11.github.io
-- Learning GitHub is fun.
+Learning GitHub is fun.
