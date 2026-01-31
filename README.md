@@ -1,2 +1,2 @@
 # dtchan11.github.io
-this is my personal website
+Learning GitHub is fun.
